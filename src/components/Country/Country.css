@@ -1,0 +1,8 @@
+.country{
+    background-color: slategray;
+    border-radius: 10px;
+}
+.country img{
+    width: 200px;
+    height: 100px;
+}
